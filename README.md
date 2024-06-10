@@ -39,21 +39,16 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 
+### ⚡ GitHub Stats
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/Josereyes12">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Josereyes12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Josereyes12">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Josereyes12&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Josereyes12&theme=dark&hide_border=true"/>
-</p>
+<center>
+  <table cellspacing="0" cellpadding="0" style="border:none;">
+    <tr>
+      <td><img width="300px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoseReyes12&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" /></td>
+      <td><img width="500px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseReyes12&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/></td>
+    </tr>   
+  </table>
+</center>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
