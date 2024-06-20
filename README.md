@@ -43,7 +43,8 @@
 
 <p align="center">
 <a href="https://github.com/Josereyes12">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Josereyes12&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Josereyes12&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Josereyes12&layout=compact&langs_count=8"/>
 </a>
 </p>
 
