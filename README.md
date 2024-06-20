@@ -39,7 +39,16 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 
+### ⚡ GitHub Stats
 
+<center>
+  <table cellspacing="0" cellpadding="0" style="border:none;">
+    <tr>
+      <td><img width="300px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoseReyes12&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" /></td>
+      <td><img width="500px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseReyes12&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/></td>
+    </tr>   
+  </table>
+</center>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
