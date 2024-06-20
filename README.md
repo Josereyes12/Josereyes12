@@ -44,8 +44,8 @@
 <center>
   <table cellspacing="0" cellpadding="0" style="border:none;">
     <tr>
-      <td><img width="300px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoseReyes12&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" /></td>
-      <td><img width="500px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseReyes12&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/></td>
+      <td><img width="300px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoseReyes12&show_icons=true&hide_border=true&count_private=true&theme=radical" /></td>
+      <td><img width="500px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseReyes12&show_icons=true&hide_border=true&count_private=true&theme=radical"/></td>
     </tr>   
   </table>
 </center>
