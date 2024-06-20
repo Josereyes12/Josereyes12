@@ -41,15 +41,11 @@
 
 ### ⚡ GitHub Stats
 
-<center>
-  <table cellspacing="0" cellpadding="0" style="border:none;">
-    <tr>
-      <td><img width="300px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoseReyes12&show_icons=true&hide_border=true&count_private=true&theme=radical" /></td>
-      <td><img width="500px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoseReyes12&show_icons=true&hide_border=true&count_private=true&theme=radical"/></td>
-    </tr>   
-  </table>
-</center>
-
+<p align="center">
+<a href="https://github.com/Josereyes12">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Josereyes12&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
