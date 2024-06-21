@@ -47,7 +47,7 @@
 </a>
 </p>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me </h2>
 
 <p align="center">
 <a href="https://glowing-babka-d0786f.netlify.app/"><img src="https://img.shields.io/badge/-JoseReyesPortfolio.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
