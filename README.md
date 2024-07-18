@@ -50,7 +50,7 @@
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me </h2>
 
 <p align="center">
-<a href="https://glowing-babka-d0786f.netlify.app/"><img src="https://img.shields.io/badge/-JoseReyesPortfolio.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://josereyes.netlify.app/"><img src="https://img.shields.io/badge/-JoseReyesPortfolio.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jose-daniel-reyes-gutierrez-19805913b"><img src="https://img.shields.io/badge/-Jose Reyes-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jose98pl@gmail.com"><img src="https://img.shields.io/badge/-jose98pl-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
