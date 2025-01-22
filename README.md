@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos. \
-🎓 &nbsp;Soy un egresado de la carrera de Ciencia de la computación en la Universidad Nacional de Ingeniería.\
+🎓 &nbsp;Soy un bachiller de la carrera de Ciencia de la computación en la Universidad Nacional de Ingeniería.\
 ✉️ &nbsp;¡Puedes enviarme un correo electrónico a  jose98pl@gmail.com! Intentaré responder tan pronto como pueda.
 
 
